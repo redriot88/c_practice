@@ -2,4 +2,4 @@
 C Practice Environment
 Projects:
 1. FizzBuzz
-2. 
+2. Anagram Finder
