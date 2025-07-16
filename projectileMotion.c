@@ -23,7 +23,7 @@ int main (void){
     float vel;
     float ang;
 
-    printf("Enter the following separated by spaces: 1. horizontal displacement (m)\n 2. magnitude of initial velocity (m/s)\n and angle of elevation in radians: \n");
+    printf("Enter the following separated by spaces: 1. horizontal displacement (m)\n 2. magnitude of initial velocity (m/s)\n 3. angle of elevation in radians: \n");
     scanf("%f %f %f", &dist, &vel, &ang);
 
     //to call getFlightTime
