@@ -1,11 +1,11 @@
-#include <stdio.h>
-#include <math.h> 
-//we need to call on math functions for trig
+#include <stdio.h> //printf, scanf
+#include <math.h>  //pow, sin(), cos()
 
-//gravity is constant and we declare as a float function
+//gravity is constant and  declared as float for calcs
+//another way to do this is #define G 9.8 and can also use double for more accurate calcs
 float getGravity (void){
     return 9.8; 
-}
+} 
 //declare flight time float function with variables declared
 float getFlightTime(float distance, float velocity, float angle){
     return (distance / velocity) * cos(angle);
@@ -22,6 +22,8 @@ int main (void){
     float dist;
     float vel;
     float ang;
+    //can also write double dist, vel, ang //to store program inputs
+    //double t, h //to store program outputs
 
     printf("Enter the following separated by spaces: 1. horizontal displacement (m)\n 2. magnitude of initial velocity (m/s)\n 3. angle of elevation in radians: \n");
     scanf("%f %f %f", &dist, &vel, &ang);
