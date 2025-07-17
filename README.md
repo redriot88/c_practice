@@ -7,3 +7,4 @@ Projects:
 3. Improper to Mixed fraction converter.
 4. Ounces to milliliters converter.
 5. Projectile motion calculator from reading the inputs of: horizontal displacement, initial velocity and angle of elevation.
+6. String copier function using pointers.
