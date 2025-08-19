@@ -9,4 +9,4 @@ Projects:
 5. Projectile motion calculator from reading the inputs of: horizontal displacement, initial velocity, and angle of elevation.
 6. String copier function using pointers.
 7. Mini-Calendar calculator via user input.
-8. Race Simulator utilising structures and functions.
+8. Race Simulator utilising structures and functions (v1 and v2).
