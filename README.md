@@ -10,3 +10,4 @@ Projects:
 6. String copier function using pointers.
 7. Mini-Calendar calculator via user input.
 8. Race Simulator utilising structures and functions (v1 and v2).
+Certificate via CodeAcademy: https://www.codecademy.com/profiles/giga0932898926/certificates/9dba9d9b6bf64cf58b2b416ef9cd0912
